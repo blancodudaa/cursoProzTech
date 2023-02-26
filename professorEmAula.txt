@@ -1,2 +1,17 @@
-A melhor forma de realizar esta verificação seria através da chamada, assim indentificando padrões:
-Pelo fato da chamada ter um padrão de alunos por turma o aluno que nãoo respondesse, estaria fora do padrão, logo, este não pertence aquela sala. 
+A primeira organização contava com 18 alunos (P) e 18 alunos (M), organizados da seguinte forma:
+
+Coluna 1: maioria alunos M
+Coluna 2: maioria de alunos P
+
+e dessa forma sucessivamente até a 6ª e última coluna.
+
+Na segunda organização, pode-se notar que não houve uma predôminância na 5ª coluna de nenhuma das materias, rompendo o padrão da organização da sala.Identificando a coluna com padrão irregular é necessário adotar a verificação em linhas, tendo a seguinte forma:
+
+Linha 1: Maioria alunos P
+Linha2: Maioria alunos M
+Linha 3: Maioria alunos M
+Linha 4: Maioria alunos P
+Linha 5: Maioria alunos M
+Linha 6: Maioria alunos P
+
+Esse padrão se anula na segunda organização quando comparamos a 5ª linha da 5ª coluna de maneira minuciosa identificação alteração no padrão e substituição de um aluno P por um aluno M.
