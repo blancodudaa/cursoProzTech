@@ -1,0 +1,3 @@
+A melhor forma de realizar esta verificação seria através da chamada, assim indentificando padrões:
+Pelo fato da chamada ter um padrão de alunos por turma o aluno que nãoo respondesse, estaria fora do padrão, 
+logo, este nãoo pertence aquela sala. 
