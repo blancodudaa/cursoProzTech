@@ -1,0 +1,23 @@
+Elabore um algoritmo para que o usuário, através da entrada de dados, informe os seus dados pessoais. Alguns desses dados
+fornecidos pelo usuário precisam ser apresentados na tela quando o algoritmo for executado, são eles:
+ 
+- Nome;
+- Endereço;
+- Cidade;
+- CPF;
+- RG.
+
+Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+ -- ------ ----- ---- 
+Escreva = "Digite seus dados:"
+Leia =
+	const nome;
+	var endereço;
+	var cidade;
+	const cpf;
+	const rg;
+Escreva = "Os dados digitados foram", nome, endereço, cidade, cpf, rg ;
+Escreva = "Confere seus dados?"
+
+Leia = var confirmacao;
