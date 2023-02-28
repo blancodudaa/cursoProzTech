@@ -1,0 +1,33 @@
+
+Instruções do Projeto 
+- Nome: José Almeida da Silva
+- CPF: 12345678900
+- RG: 9517530
+- Altura: 1,78
+- Endereço: Rua A, 380 – Centro – Recife/PE
+
+No algoritmo, descreva como será:
+1. o identificador das variáveis;
+2. a declaração das variáveis com seus respectivos identificadores e tipos de dado;
+3. a utilização do comando de atribuição, apresentando identificador e dado.
+
+Variáveis: 
+NOME (1)
+CPF (2)
+RG (3)
+ALTURA (4)
+ENDEREÇO (5)
+
+Tipos de dados:
+(1) Caractere
+(2) Inteiro
+(3) Inteiro
+(4) Real
+(5) Caractere
+
+Atribuição:
+Nome <- "José Almeida da Silva"
+CPF <- 12345678900 
+RG <- 9517530
+Altura < - 1,78
+Endereço < - "Rua A, 380 – Centro – Recife/PE"
